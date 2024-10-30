@@ -11,6 +11,8 @@ Make the directory just to be sure that it exist
 mkdir -p ~/.local/share/applications
 ```
 
+Install the desktop file by running this
+
 ```bash
 wget -P ~/.local/share/applications https://raw.githubusercontent.com/dnkmmr69420/enable-konsole-on-bazzite/refs/heads/main/org.kde.konsole.desktop
 ```
